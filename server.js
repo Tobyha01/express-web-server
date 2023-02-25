@@ -7,5 +7,5 @@ app.get("/", function (request, respone){
 
 })
 app.listen(port, function() {
-    console.log(`Server listening at https://localhost:${port}`)
+    console.log(`Server listening at https://localhost:${port}`
 })
